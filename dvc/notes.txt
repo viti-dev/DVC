@@ -1,0 +1,15 @@
+README.md   md = mark down
+dvc = data version control 
+
+
+important file
+.dvc
+dvc.yaml
+.dvc
+
+
+run 
+dvc repro
+trck changes
+
+dvc dag
